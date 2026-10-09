@@ -1,0 +1,6 @@
+{
+  "name": "AIPraktor - Automated AI Legal Documentation & Video Generator",
+  "description": "Enterprise-grade AI legal documentation generator with automated video explainer studio, contract risk auditing, multi-jurisdiction compliance, and audio-visual clause walkthroughs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
